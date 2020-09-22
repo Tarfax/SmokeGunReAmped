@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ec5a6d7f8df6064a85e307f3fab6433, type: 3}
+  m_Name: Drop_SingleBulletGun
+  m_EditorClassIdentifier: 
+  Visual: {fileID: 6383168899399799132, guid: e7cc04b0f3aeafa46805dbe31381e8f8, type: 3}
+  WeaponData: {fileID: 11400000, guid: b43cd8add28d3604bbdc2bc5396ff344, type: 2}

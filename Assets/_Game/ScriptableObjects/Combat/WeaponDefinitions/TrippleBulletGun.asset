@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e04dcdf116d20f47b84baf6e10bf3b9, type: 3}
+  m_Name: TrippleBulletGun
+  m_EditorClassIdentifier: 
+  WeaponType: 2
+  FireRate: 0.4
+  BulletData: {fileID: 11400000, guid: 8eb039b76c6613849b8360f8cb19e002, type: 2}
+  BulletDamage: 3
+  BulletSpeed: 30
+  DistanceUntilDeath: 25
+  WeaponDescription: Tripple the power
+  UI_WeaponSprite: {fileID: 21300002, guid: 6674e8c43c63e4f4184cbd009379498d, type: 3}

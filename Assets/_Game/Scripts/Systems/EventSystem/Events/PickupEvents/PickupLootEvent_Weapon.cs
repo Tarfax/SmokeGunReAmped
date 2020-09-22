@@ -1,0 +1,1 @@
+﻿public class PickupLootEvent_Weapon : PickupLootEvent { }
